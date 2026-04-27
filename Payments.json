@@ -1,0 +1,25 @@
+[
+    {
+        "type": "CreditCard",
+        "amount": 5000,
+        "currency": "INR",
+        "date": "2026-04-27 21:49",
+        "holder_name": "Raj Kumar",
+        "card_last4": "3456"
+    },
+    {
+        "type": "UPI",
+        "amount": 1500,
+        "currency": "INR",
+        "date": "2026-04-27 21:49",
+        "upi_id": "raj@upi"
+    },
+    {
+        "type": "NetBanking",
+        "amount": 3000,
+        "currency": "INR",
+        "date": "2026-04-27 21:49",
+        "bank_name": "SBI",
+        "account_last4": "8901"
+    }
+]
